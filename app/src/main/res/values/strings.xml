@@ -1,0 +1,76 @@
+<resources>
+    <string name="app_name">Carbon Tracker</string>
+
+    <!-- Navigation -->
+    <string name="nav_dashboard">Dashboard</string>
+    <string name="nav_log">Log Activity</string>
+    <string name="nav_goals">Goals</string>
+    <string name="nav_tips">Tips</string>
+    <string name="nav_export">Export</string>
+    <string name="nav_about">About</string>
+
+    <!-- Categories -->
+    <string name="category_transport">Transport</string>
+    <string name="category_food">Food</string>
+    <string name="category_energy">Energy</string>
+
+    <!-- Dashboard -->
+    <string name="dashboard_title">Carbon Footprint</string>
+    <string name="today">Today</string>
+    <string name="this_week">This Week</string>
+    <string name="this_month">This Month</string>
+    <string name="kg_co2">kg CO₂</string>
+    <string name="no_activities_logged">No activities logged yet</string>
+    <string name="recent_activities">Recent Activities</string>
+
+    <!-- Log Activity -->
+    <string name="log_activity_title">Log Activity</string>
+    <string name="select_category">Category</string>
+    <string name="select_subcategory">Type</string>
+    <string name="enter_value">Value</string>
+    <string name="notes">Notes (optional)</string>
+    <string name="save">Save</string>
+    <string name="saved">Activity saved!</string>
+    <string name="delete">Delete</string>
+    <string name="deleted">Activity deleted</string>
+
+    <!-- Goals -->
+    <string name="goals_title">Reduction Goals</string>
+    <string name="add_goal">Add Goal</string>
+    <string name="goal_name">Goal Name</string>
+    <string name="target_emission">Target (kg CO₂)</string>
+    <string name="period">Period</string>
+    <string name="daily">Daily</string>
+    <string name="weekly">Weekly</string>
+    <string name="monthly">Monthly</string>
+    <string name="overall">Overall</string>
+    <string name="progress">Progress</string>
+    <string name="on_track">On track! 🎉</string>
+    <string name="over_target">Over target ⚠️</string>
+    <string name="no_goals">No goals set yet</string>
+
+    <!-- Tips -->
+    <string name="tips_title">Tips to Reduce Carbon</string>
+
+    <!-- Export -->
+    <string name="export_title">Export Data</string>
+    <string name="export_json">Export as JSON</string>
+    <string name="export_share">Share Export</string>
+    <string name="export_success">Data exported successfully</string>
+
+    <!-- About -->
+    <string name="about_title">About Carbon Tracker</string>
+    <string name="version">Version</string>
+    <string name="check_updates">Check for Updates</string>
+    <string name="checking_updates">Checking for updates…</string>
+    <string name="up_to_date">You\'re on the latest version</string>
+    <string name="update_available">Update available: %s</string>
+    <string name="update_error">Could not check for updates</string>
+    <string name="share_app">Share</string>
+    <string name="share_message">Check out Carbon Tracker! Track and reduce your carbon footprint. https://github.com/jnetai-clawbot/Carbon-Tracker</string>
+    <string name="github">GitHub</string>
+
+    <!-- Chart -->
+    <string name="breakdown_chart">Emission Breakdown</string>
+    <string name="no_data_chart">No data to display</string>
+</resources>
